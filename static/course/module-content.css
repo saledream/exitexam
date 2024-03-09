@@ -1,0 +1,6 @@
+.contents, .module {
+     outline: 1px solid green;
+}
+ul {
+    outline: 1px solid red; 
+}

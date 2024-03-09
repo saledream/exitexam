@@ -1,0 +1,9 @@
+.contents, .module {
+     outline: 1px solid green;
+}
+ul {
+    outline: 1px solid red; 
+}
+.course_info {
+    outline: 1px solid gray;
+}
